@@ -1,0 +1,12 @@
+/*ADD STYLES TO FIX FOOTER TO BOTTOM*/
+
+html {
+	min-height: 100%;
+}
+
+.footer {
+    height: 100px;
+    width: 100%;
+	background-color: gray;
+	color: #fff;
+}
